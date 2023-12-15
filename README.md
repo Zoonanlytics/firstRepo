@@ -1,2 +1,1 @@
-# firstRepo
-for testing
+## Include DEscription of the repo, contents, and how to use it
